@@ -126,7 +126,7 @@ Generic "top 10 sales influencers" lists were deliberately avoided. Each expert 
 
 | 10 | Florin Tatulea | Outbound sequencing & cold email frameworks | LinkedIn + Substack |
 
-Full annotations with links and context: `/research/sources.md`](research/[sources.md](http://sources.md))
+Full annotations with links and context: [research/sources.md](research/sources.md)
 
 ---
 
@@ -136,7 +136,7 @@ Full annotations with links and context: `/research/sources.md`](research/[sourc
 
 /research
 
-  [sources.md](http://sources.md)                  — annotated list of all 10 experts
+  sources.md                  — annotated list of all 10 experts
 
   /linkedin-posts             — recent LinkedIn posts organized by author
 
